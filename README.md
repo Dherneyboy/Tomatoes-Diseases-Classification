@@ -11,9 +11,9 @@ Effective management of these diseases involves a combination of cultural practi
 This project aims to classify tomato leaf images into different disease categories using a Convolutional Neural Network (CNN). We trained the model on the PlantVillage dataset from Kaggle, which contains labeled images of healthy tomato leaves and leaves affected by various diseases. The model was deployed using Fast Api.
 
 ## Project Structure
-- Data/: Contains the dataset (you can download it from the Kaggle link above).
-- notebooks/: Jupyter notebooks for data exploration, model training, and evaluation.
-- src/: app.py: FastAPI app for serving predictions.
+- Data/: Contains the dataset (you can download it from the Kaggle link below).
+- notebook/: Jupyter notebook for data exploration, model training, and evaluation.
+- main.py: FastAPI app for serving predictions.
 - model/: Saved trained model weights.
 - requirements.txt: List of Python dependencies.
 
